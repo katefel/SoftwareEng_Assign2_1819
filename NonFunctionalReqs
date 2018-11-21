@@ -4,3 +4,18 @@ Requirement ID: NFR001
 Requirement Title: Response Time
 Requirement Description: The system will respond within 0.5 seconds to the user
 Initials: KF
+
+Requirement ID: NFR002
+Requirement Title: View Patient Details
+Requirement Description: When viewing the patients details, all certain fields shoudl display, e.g., Name(s), D.O.B, Address, etc.
+Initials: DK
+
+Requirement ID: NFR003
+Requirement Title: Ease of Use
+Requirement Description: The system should be easy and intuitive to use for all types of users and should only display the relevant information for the specific user.
+Initials: DK
+
+Requirement ID: NFR004
+Requirement Title: Log-On Types
+Requirement Description: The system should allow for three log-on types, Practice Manager, Doctor and Receptionist.
+Initials: DK
