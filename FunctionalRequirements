@@ -4,3 +4,20 @@ Requirement_ID:FR001
 Requirement Title: Paying with a credit card
 Requirement Description: The new system will allow the user to pay with a credit card.  An external banking plugin will be used to process the payment.
 Initials: KF
+
+Requirement_ID:FR002
+Requirement Title: Check availability
+Requirement Description: The system should check new appointments against currently made ones before creating a new booking.
+Initials: DK
+
+
+Requirement_ID:FR003
+Requirement Title: Check access
+Requirement Description: When using the username and password log on the system should idenitfy the level of user and then provide the correct features dependant on the level of user. 
+Initials: DK
+
+
+Requirement_ID:FR004
+Requirement Title: Costs of appointments/cancellations
+Requirement Description: The system should correctly work out the cost calculations with appointments carried out, appointments missed and cancellations, then display the data for the practice manager.
+Initials: DK
