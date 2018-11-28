@@ -19,3 +19,18 @@ Requirement ID: NFR004
 Requirement Title: Log-On Types
 Requirement Description: The system should allow for three log-on types, Practice Manager, Doctor and Receptionist.
 Initials: DK
+
+Requirement ID: NFR005
+Requirement Title: Login attempts 
+Requirement Description: The system should allow the user three attempts to login after which there is a cool down period.   
+Initials: AL
+
+Requirement ID: NFR006
+Requirement Title: Accessibility of information  
+Requirement Description: The system should present patient details clearly on screen. 
+Initials: AL
+
+Requirement ID: NFR007
+Requirement Title: Calculate total costs
+Requirement Description: The system should add and deduct costs accordingly to work out total costs for appointments and medication.  
+Initials: AL
