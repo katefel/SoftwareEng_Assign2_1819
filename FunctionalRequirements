@@ -21,3 +21,18 @@ Requirement_ID:FR004
 Requirement Title: Costs of appointments/cancellations
 Requirement Description: The system should correctly work out the cost calculations with appointments carried out, appointments missed and cancellations, then display the data for the practice manager.
 Initials: DK
+
+Requirement ID: FR005
+Requirement Title: Checking patients’ details
+Requirement Description: The system should check patients’ personal details to see if they are all correct. 
+Initials: AL
+
+Requirement ID: FR006
+Requirement Title: New Patients 
+Requirement Description: The system should allow the user to add a new patient’s name, address and any medical details to the system. 
+Initials: AL
+
+Requirement ID: FR007
+Requirement Title: Update medical records for patients
+Requirement Description: The system should allow the user to update all patients’ medical records. 
+Initials: AL
