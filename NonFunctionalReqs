@@ -2,12 +2,12 @@ Please add your non-functional requirements in the following style
 
 Requirement ID: NFR001
 Requirement Title: Response Time
-Requirement Description: The system will respond within 0.5 seconds to the user
+Requirement Description: The system will respond within 0.5 seconds to the user.
 Initials: KF
 
 Requirement ID: NFR002
 Requirement Title: View Patient Details
-Requirement Description: When viewing the patients details, all certain fields shoudl display, e.g., Name(s), D.O.B, Address, etc.
+Requirement Description: When viewing the patients details, all certain fields should display: Name(s), D.O.B, Address, etc.
 Initials: DK
 
 Requirement ID: NFR003
@@ -17,21 +17,36 @@ Initials: DK
 
 Requirement ID: NFR004
 Requirement Title: Log-On Types
-Requirement Description: The system should allow for three log-on types, Practice Manager, Doctor and Receptionist.
+Requirement Description: The system should allow for three log-on types; Practice Manager, Doctor and Receptionist.
 Initials: DK
 
 Requirement ID: NFR005
-Requirement Title: Login attempts 
+Requirement Title: Login Attempts 
 Requirement Description: The system should allow the user three attempts to login after which there is a cool down period.   
 Initials: AL
 
 Requirement ID: NFR006
-Requirement Title: Accessibility of information  
+Requirement Title: Accessibility of Information  
 Requirement Description: The system should present patient details clearly on screen. 
 Initials: AL
 
 Requirement ID: NFR007
-Requirement Title: Calculate total costs
+Requirement Title: Calculate Total Costs
 Requirement Description: The system should add and deduct costs accordingly to work out total costs for appointments and medication.  
 Initials: AL
 
+Requirement ID: NFR008
+Requirement Title: Main Menu
+Requirement Description: The system should have a generic main menu that all users are directed to after login.  
+Initials: DB
+
+Requirement ID: NFR009
+Requirement Title: Sub Menus
+Requirement Description: The system should have three sub menus 'Patients', 'Appointments' and 'Doctors'. 
+                          All users can access the sub menus and will see different things depending on access level. 
+Initials: DB
+
+Requirement ID: NFR010
+Requirement Title: Consistant Layout
+Requirement Description: The system's layout i.e. a control's shape, size, colour and position should be consistant throughout the application.   
+Initials: DB
