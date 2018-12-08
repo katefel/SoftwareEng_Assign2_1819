@@ -37,5 +37,20 @@ Requirement Title: Update medical records for patients
 Requirement Description: The system should allow the user to update all patients’ medical records. 
 Initials: AL
 
+Requirement ID: FR008
+Requirement Title: Run a 'doctor cost' report
+Requirement Description: The Practice Manager should be able to run a report of all doctor costs. 
+Initials: DB
+
+
+Requirement ID: FR009
+Requirement Title: Run an 'doctor appointments' report
+Requirement Description: The Practice Manager should be able to run a report showing all booked appointments for a particular doctor. 
+Initials: DB
+
+Requirement ID: FR010
+Requirement Title: Run a 'all doctor appointments' report
+Requirement Description: The Practice Manager should be able to run a report of all doctors appointments. 
+Initials: DB
 
 
