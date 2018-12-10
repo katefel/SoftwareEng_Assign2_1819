@@ -30,10 +30,6 @@ Requirement Title: Accessibility of Information
 Requirement Description: The system should present patient details clearly on screen. 
 Initials: AL
 
-Requirement ID: NFR007
-Requirement Title: Calculate Total Costs
-Requirement Description: The system should add and deduct costs accordingly to work out total costs for appointments and medication.  
-Initials: AL
 
 Requirement ID: NFR008
 Requirement Title: Main Menu
